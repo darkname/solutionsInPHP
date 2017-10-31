@@ -27,3 +27,6 @@ var_dump($test1);
 
 $test2 = isUniqueString('mani');
 var_dump($test2);
+
+$test3 = isUniqueString('tino');
+var_dump($test3);
